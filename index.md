@@ -22,7 +22,7 @@ This is probably my favorite or second favorite site for typing tests.
 
 #### Archive
 
-To view an archive of past scores. [Click Here](https://type.alteredgeno.me/archives
+To view an archive of past scores. [Click Here](https://type.alteredgeno.me/archives)
 
 For more information about me...
 # Visit [AlteredGeno.me](https://alteredgeno.me)
