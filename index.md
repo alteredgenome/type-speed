@@ -6,19 +6,19 @@ This is just a quick website to showcase my latest typing speed on various platf
 
 This is probably my favorite or second favorite site for typing tests.
 
-![Image](aoeu.png)
+![AOEUScore](aoeu.png)
 
 ### 10FastFingers
 
 This is probably my third favorite site for typing tests.
 
-![Image](tff.png)
+![TenFastFingersScore](tff.png)
 
 ### TypingTest
 
 This is probably my favorite or second favorite site for typing tests.
 
-![Image](tt.png)
+![TypingTestScore](tt.png)
 
 For more information about me...
-# Visit .[Link](https://alteredgeno.me)
+# Visit .[AlteredGeno.me](https://alteredgeno.me)
