@@ -14,6 +14,7 @@ This is probably my favorite or second favorite site for typing tests.
 This is probably my third favorite site for typing tests.
 
 ![TenFastFingersScore](tff.png)
+<sub><sup>December 18th 2018 Logitech K330 Keyboard</sup></sub>
 
 ### [TypingTest](https://www.typingtest.com/result.html?acc=97&nwpm=80&gwpm=82&ncpm=404&gcpm=414&dur=60&time=60&chksum=39201&unit=wpm&kh=998&td=null&err=2&hits=414)
 
