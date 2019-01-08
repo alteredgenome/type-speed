@@ -7,7 +7,7 @@ This is just a quick website to showcase my latest typing speed on various platf
 This is probably my favorite or second favorite site for typing tests.
 
 ![AOEUScore](aoeu.png)
-<sub><sup>December 18th 2018 HP Chromebook</sup></sub>
+<sub><sup>January 8th 2019 HP Chromebook</sup></sub>
 
 ### [10FastFingers](https://10fastfingers.com/typing-test/english)
 
